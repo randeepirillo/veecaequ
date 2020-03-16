@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iaxooshii.uds.zone/sitemap.xml
